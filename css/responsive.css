@@ -1,0 +1,176 @@
+@media screen and (max-width: 1400px){
+
+     nav {
+       display: none;
+     }  
+}
+@media screen and (max-width: 1200px){
+
+     .banner_content h2{
+          font-size: 60px;
+     }
+     .main_banner::before{
+          display: none;
+     }
+     
+}
+@media screen and (max-width: 991px){
+
+     .res_btn{
+       display: none;
+     }
+     .horizontal_spacer{
+          padding-left: 40px;
+          padding-right: 40px;
+     }
+     .container{
+          max-width: 880px !important;
+     }
+     .banner_content h2{
+          font-size: 50px;
+     }
+     .download_app_title{
+          font-size: 50px;
+     }
+     .main_moblie p{
+          width: 100%;
+     }
+     .main_moblie img{
+          display: none;
+     }
+     .testi_slider{
+          padding: 62px 110px 65px;
+     }
+     
+}
+
+@media screen and (max-width: 767px){
+
+     .right_banner img{
+          display: none;
+     }
+     .customer_img{
+          background-position: center;
+          background-repeat: no-repeat;
+     }
+     .food_title h2{
+          font-size: 35px !important;
+     }
+     .food_menu_title1{
+          font-size: 40px;
+     }
+
+}
+@media screen and (max-width: 720px){
+
+     .nav_btn .nav_icon{
+          display: none !important;
+     }
+     .horizontal_spacer{
+          padding-left: 20px;
+          padding-right: 20px;
+     }
+
+}
+@media screen and (max-width: 576px){
+
+     .banner_btn{
+          display: block;
+     }
+     .banner_btn a{
+          display: block !important;
+          text-align: center !important;
+          margin-bottom: 10px;
+     }
+     .how{
+          width: 300px;
+     }
+     .download_app_title{
+          font-size: 40px;
+     }
+     .cutomer_title p:first-child{
+          padding-top: 50px;
+          padding-left: 0px;
+     }
+     .customer_logo{
+          margin-top: 20px;
+          padding-right: 0px;
+     }
+     .customer_slider {
+          padding: 0;
+     }
+     .help_title{
+          font-size: 30px !important;
+     }
+     .food_banner_content h2{
+          font-size: 40px !important;
+     }
+
+}
+@media screen and (max-width: 387px){
+
+     .banner_content h2{
+          font-size: 40px;
+     }
+}
+@media screen and (max-width: 480px){
+
+     .app_btn a{
+          text-align: center !important;
+          width: 100% !important;
+          margin-bottom: 10px !important;
+     }
+     .sec_title{
+          font-size: 40px !important;
+     }
+     .cutomer_title p:first-child{
+          padding-left: 0px;
+     }
+     .testi_slider{
+          padding: 62px 10px 65px;
+          background-color: #fff;
+     }
+     .owl-nav .owl-prev,
+     .owl-nav .owl-next{
+          left: 10px;
+     }
+     .owl-nav .owl-next{
+          left: auto;
+          right: 10px;
+     }
+
+}
+@media screen and (max-width: 1200px){
+
+     .main_story{
+          padding: 50px;
+     }
+     .customer_img .container{
+          max-width: 1100px;
+     }
+     .help_title{
+          font-size: 46px;
+     }
+
+}
+@media screen and (min-width: 1200px) and (max-width: 1400px){
+
+     .main_story{
+          padding: 70px;
+     }
+
+}
+@media screen and (max-width: 1365px){
+
+     .food_banner_content h2{
+          font-size: 50px;
+     }
+     .food_banner_content p{
+          font-size: 18px;
+     }
+     .food_banner_content span{
+          font-size: 22px;
+     }
+
+
+}
